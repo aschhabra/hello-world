@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "My first node project",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
